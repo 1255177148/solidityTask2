@@ -1,7 +1,7 @@
 {
   "name": "Elvis NFT #1",
   "description": "A sample NFT stored on IPFS via Filebase",
-  "image": "ipfs://bafybeifjbaqmbgwidj4up2gw4aqq6tmh24yuc3eu53gwj3uwdcvuukezvq",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeifjbaqmbgwidj4up2gw4aqq6tmh24yuc3eu53gwj3uwdcvuukezvq",
   "attributes": [
     {
       "trait_type": "Artist",

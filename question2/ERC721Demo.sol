@@ -9,7 +9,7 @@ import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 contract ERC721Demo is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     uint256 private _nextTokenId;
     string constant META_DATA =
-        "ipfs://bafkreich6hxft2bpqvxelgnhbvzxnw7o3f3pokll6olwzjclsqtkcl2b7m";
+        "https://gateway.pinata.cloud/ipfs/bafkreihbb3cxflr2vzydqkf43ozr3mdzcxva3pyzt4mpndvenxpodvh7ti";
 
     constructor(string memory tokenName, string memory tokenSymbol)
         ERC721(tokenName, tokenSymbol)
