@@ -18,3 +18,7 @@ ERC20 代币
 作业3：编写一个讨饭合约
 
 在remix的测试截图
+
+![1](https://github.com/user-attachments/assets/61408fe6-5a58-45b8-8acb-37e06013da84)
+
+sepolia测试网合约地址：0x0a33f16b5108f8df405ecac076035dc1a4305b19
